@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><Shortcut_key>
+    <key_name id="a">
+        <key_0>CTRL</key_0>
+        <key_1>ALT</key_1>
+        <key_2>t</key_2>
+    </key_name>
+    <key_name id="b">
+        <key_0>CTRL</key_0>
+        <key_1>ALT</key_1>
+        <key_2>t</key_2>
+    </key_name>
+    <key_name id="c">
+        <key_0>CTRL</key_0>
+        <key_1>SHIFT</key_1>
+        <key_2>v</key_2>
+    </key_name>
+    <key_name id="d">
+        <key_0>CTRL</key_0>
+        <key_1>c</key_1>
+        <key_2/>
+    </key_name>
+    <key_name id="e">
+        <key_0>CTRL</key_0>
+        <key_1>v</key_1>
+        <key_2/>
+    </key_name>
+    <key_name id="f">
+        <key_0>a</key_0>
+        <key_1/>
+        <key_2/>
+    </key_name>
+    <key_name id="g">
+        <key_0>b</key_0>
+        <key_1/>
+        <key_2/>
+    </key_name>
+    <key_name id="h">
+        <key_0>c</key_0>
+        <key_1/>
+        <key_2/>
+    </key_name>
+    <key_name id="i">
+        <key_0>d</key_0>
+        <key_1/>
+        <key_2/>
+    </key_name>
+    <key_name id="j">
+        <key_0>e</key_0>
+        <key_1/>
+        <key_2/>
+    </key_name>
+    <key_name id="k">
+        <key_0>f</key_0>
+        <key_1/>
+        <key_2/>
+    </key_name>
+    <key_name id="l">
+        <key_0>g</key_0>
+        <key_1/>
+        <key_2/>
+    </key_name>
+    <key_name id="m">
+        <key_0>h</key_0>
+        <key_1/>
+        <key_2/>
+    </key_name>
+    <key_name id="n">
+        <key_0>i</key_0>
+        <key_1/>
+        <key_2/>
+    </key_name>
+    <key_name id="o">
+        <key_0>g</key_0>
+        <key_1/>
+        <key_2/>
+    </key_name>
+    <key_name id="p">
+        <key_0>k</key_0>
+        <key_1/>
+        <key_2/>
+    </key_name>
+</Shortcut_key>
