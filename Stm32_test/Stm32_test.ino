@@ -168,7 +168,6 @@ void loop() {
   
   if (key != NO_KEY)
   {
-    Serial.print(key);
     choose_sorft(&key);
     switch(key){
       case 'a': shortcut_keys(0);  break;
